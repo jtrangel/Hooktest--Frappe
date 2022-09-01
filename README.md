@@ -15,7 +15,9 @@ To run the app, the first choice is to clone the repository to a folder named "h
 
 Afterwards, run:
 
-```bench get-app hooktest```
+```
+bench get-app hooktest
+```
 
 The other choice is to install the app directly from this repository.
 
