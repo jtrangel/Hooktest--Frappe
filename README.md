@@ -25,11 +25,11 @@ bench get-app https://github.com/jtrangel/Hooktest--Frappe
 
 Last, we install the app to your frappe website.
 
-`
-bench --site yoursite.com install-app hooktest
+``
+bench --site <yoursite.com> install-app hooktest
 
 bench start
-`
+``
 
 
 
