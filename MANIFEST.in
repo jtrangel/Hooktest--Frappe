@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include hooktest *.css
+recursive-include hooktest *.csv
+recursive-include hooktest *.html
+recursive-include hooktest *.ico
+recursive-include hooktest *.js
+recursive-include hooktest *.json
+recursive-include hooktest *.md
+recursive-include hooktest *.png
+recursive-include hooktest *.py
+recursive-include hooktest *.svg
+recursive-include hooktest *.txt
+recursive-exclude hooktest *.pyc
